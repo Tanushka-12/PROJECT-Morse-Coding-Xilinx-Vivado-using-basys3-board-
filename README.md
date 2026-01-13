@@ -1,0 +1,2 @@
+# PROJECT-Morse-Coding-Xilinx-Vivado-using-basys3-board-
+Morse Code Generator Using Basys-3 FPGA, IEEE Paper No. 144 .In Technologies we have used Verilog HDL  • Implemented the IEEE-referenced microcontroller design on FPGA using Verilog HDL.  • Developed a Morse encoder and decoder using FSM timing logic and lookup tables.  • Integrated LEDs, switches, and keypad for real-time user input and output.
