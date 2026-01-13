@@ -1,0 +1,17 @@
+DESCRIPTION :
+Morse Code is a communications "language" that was initially developed for transmission of letter by letter textual information by wire using the telegraph system.
+The code has also found wireless applications using signal lamps and audio devices and has also been used in long range radio communications and radio navigation applications.
+
+International Morse Code defines a standard encoding where each letter is mapped to a series of dots and dashes, as follows:
+
+'a' maps to ".-",
+'b' maps to "-...",
+'c' maps to "-.-.", and so on.
+
+Morse code theory centers on encoding text into standardized sequences of short (dots/dits) and long (dashes/dahs) signals, separated by silence, allowing for efficient long-distance communication via telegraphy
+and radio waves. Its core principle is a variable-length code, assigning shorter codes to more frequent letters (like 'E' as a single dot) for speed, using precise timing (dash is 3x dot length) for clarity, and
+forming a robust, human-decodable system for binary (on/off) transmission. 
+
+DEVELOPMENT AND SYSTEM :
+American Morse: Developed by Samuel Morse and Alfred Vail for early telegraphy.
+International Morse Code: Adopted in 1851 (refined later), it's the global standard, including more punctuation and special characters, simplified for European use and wider adoption. 
